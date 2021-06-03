@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A charge at the general Quarter Sessions of the Peace held for the county of Cambridge at the castle of Cambridge, on Thursday the seventeenth day of January, Anno Domini 1688/9 by Sir M. D. ...</title>
+            <author>England and Wales. Court of Quarter Sessions of the Peace (Cambridgeshire)</author>
+         </titleStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36904</idno><idno type="EEBO-CITATION">13280767</idno>
+  <idno type="VID">98751</idno>
+  <idno type="EEBO-PROQUEST">2240882416</idno>
+  
+            <idno type="STC">Wing D263</idno>
+            <idno type="STC">ESTC R9513</idno>
+            <idno type="OCLC">13280767</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98751)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 451:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A charge at the general Quarter Sessions of the Peace held for the county of Cambridge at the castle of Cambridge, on Thursday the seventeenth day of January, Anno Domini 1688/9 by Sir M. D. ...</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (Cambridgeshire)</author>
+                  <author>Darrell, Marmaduke, Sir.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1714 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98751:1"/>
+            <pb facs="tcp:98751:1"/>
+            <p>A CHARGE AT The General Quarter Sessions of the Peace Held for The COUNTY of <hi>CAMBRIDGE,</hi> AT The Castle of <hi>Cambridge,</hi> On Thursday the seventeenth day of <hi>January, Anno Domini</hi> 1688/9.</p>
+            <p>By Sir <hi>M. D.</hi> of <hi>Grey</hi>'s-Inn.</p>
+            <q>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Non desunt Theologi qui ad tumultus Classicum ca<g ref="char:EOLhyphen"/>nant.</p>
+               </sp>
+               <sp>
+                  <speaker>Ge.</speaker>
+                  <p>Istos ego statuerem in prima Acie.</p>
+               </sp>
+               <bibl>
+                  <hi>Erasm.</hi>
+               </bibl>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed <hi>Febr.</hi> the 1<seg rend="sup">st</seg>. 1688/9.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London</hi> printed for <hi>Randal Taylor</hi> near <hi>Stationers-hall, Anno Dom.</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98751:2"/>
+            <pb n="1" facs="tcp:98751:2"/>
+            <head>A Charge at the General Quarter Sessions of the Peace held for the County of <hi>Cambridge,</hi> &amp;c.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>IT <hi>cannot be expected that I should enter upon the ordinary Methods of direction which has been usual at other times.</hi>
+            </p>
+            <p>
+               <hi>I shall therefore very briefly express my self to you, with that plainness which I think becomes the present Occasion; and shall insist onely upon such matters as require most to be Considered of in this Extraordinary Juncture of Affairs.</hi>
+            </p>
+            <pb n="2" facs="tcp:98751:3"/>
+            <p>Gentlemen,</p>
+            <p>THE great occasion of our meeting here is, for Preserva<g ref="char:EOLhyphen"/>tion of the Peace in matters Ecclesiastical as well as Civil: By matters Ecclesiastical is meant matters of the Church, and by the Church is meant the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> as 'tis by Law Established in this Kingdom, the Constitu<g ref="char:EOLhyphen"/>tions of which are undoubtedly the best of any now in practice in any other part of the Christian World, as coming nearest to that Forme of divine Worship which was taught by our Blessed Saviour and his Apostles, and which indeed is a Member of that very Church which was at Unity with it self for some Centuries after Christ's Ascension, as making the holy Scriptures the Rule of our Faith; as believing and acknowledging for Orthodox, the Doctrines of the prime Primitive Fathers, and the Four first General Councils.</p>
+            <p>It were mightily to be wondred at, how it should come to pass that such Disorders afterwards should arise, were it not that it pleased God for the sins of mortal Men, in after Ages (as it appears he did the <hi>JEWS</hi> in the Old Testament) to suffer them to follow their own wicked Imaginations.</p>
+            <p>The first moving steps to those Confusions that seem obvious to humane understanding, were, That the Christians in succee<g ref="char:EOLhyphen"/>ding times growing very Conversant with the Writings of the Ancient heathen Philosophers, learnt thereby very subtile ways of Cavelling and Disputing with one another about empty No<g ref="char:EOLhyphen"/>tions and Uncertainties, and by degrees falling from those Nicer Speculations, they came to make Religion the Subject matter of their Debates; the Consequence of that <hi>Disputandi pruritus</hi> was soon found to be <hi>Ecclesiae Scabies;</hi> for, those of them that vainly assumed to themselves Conquest in Disputation
+<pb n="3" facs="tcp:98751:3"/>afterwards, boldly took upon them to work Innovations in Religion, and broaching new Doctrines never heard of in the Primitive Church, giving out at the same time, that the Holy Scriptures onely could not make Men wise enough to Salva<g ref="char:EOLhyphen"/>tion, but we must take along with us these wilde Notions to help us on in our way to Heaven.</p>
+            <p>Now, I say, why these Enthusiastick Dreams or pretended Traditions of fancifull Men, warranted by nothing but their own Authorities, should crowd in amongst us, and become Ar<g ref="char:EOLhyphen"/>ticles of our Christian Faith, I confess is beyond my poor Capa<g ref="char:EOLhyphen"/>city to comprehend.</p>
+            <p>But as it is a sad and serious Truth, that these false doctrines have for many Ages influenced that part of the Christian Church which is grown to a proud and mighty Empire, so it is as true that the ways and means used to aggrandize this Power has been, as our Histories very plentifully tell us, through the most horrible Rapines, the most grievous Bloudsheds, the most dreadfull Persecutions imaginable; a deep Consideration of which, caused a noble Historian of ours to declare, that Certainly there was nothing more to be lamented, than the private Contention, the passionate Dispute, the personal Hatred, and the perpetual War, Massacres and Murthers, for Religion among Christians.</p>
+            <p>With us begun our famous Reformation or Re-establishing of the old Religion amongst us (though the ground work laid in the preceeding Reign) in the time of KING <hi>EDWARD</hi> the Sixth, through the great Care of that Excellent Prince, and the very Reverend and Learned Prelates of those times; Cherished it was with very happy Progressions during his short Reign, but suddenly again Eclipsed by QUEEN <hi>MARY</hi>'s coming to the Throne. Every one has heard, and therefore
+<pb n="4" facs="tcp:98751:4"/>I shall not need repeat the bloudy persecutions and prosecu<g ref="char:EOLhyphen"/>tions of those times. Let it therefore suffice to say, that many to avoid the Cruelties inflicted then on Protestants were forced to leave their native Countrey and seek shelter abroad for safety of their Lives. But this Reign likewise being but short, our Religion was restored again with full strength and vigour by that ever Renowned QUEEN <hi>ELIZABETH.</hi>
+            </p>
+            <p>Now every Man had it in his power to be happy, in enjoy<g ref="char:EOLhyphen"/>ing the blessed Sun-shine and Tranquility of a peacefull Regi<g ref="char:EOLhyphen"/>men; but such it seems were the Iniquities even of those times, that the restless spirits of some Men, and especially of those that were now returned home from their places of refuge a<g ref="char:EOLhyphen"/>broad, that they began to preach forth certain new-fangled Doctrines, which they had pick'd up in a foreign Countrey, and to set them in opposition to the established Religion.</p>
+            <p>In ANSWER, and to appease, if possible, these MAR<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> PRELATES, who were full of petulant Disputation and Contention, arose Reverend Mr. <hi>Hooker,</hi> and with his lear<g ref="char:EOLhyphen"/>ned and judicious Pen stated the whole Matter, that those things, as he says, might not pass as in a Dream.</p>
+            <p>It must not be omitted, that the PRIESTS and JE<g ref="char:EOLhyphen"/>SUITS would be sure to put in for their share, and whose Disciples 'tis possible some of the former were; therefore with most indefatigable Industry they lay'd about them, though al<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their desperate Attempts, as well private Insinuations, as their other Plots and Contrivances, then proved ineffectual.</p>
+            <p>Against these <hi>Boutefeus</hi> the Wisedom of those times though<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it necessary to enact sanguinary Laws, which, if they had been at all times since strictly executed upon them, might have prevented many bitter Troubles that have happened since.</p>
+            <pb n="5" facs="tcp:98751:4"/>
+            <p>I cannot leave them without remembring what <hi>Machiavel</hi> writes in his Letter to <hi>Zenobio,</hi> that if Princes shall perform this Business by halves, and leave any root of this CLERGY or PRIEST-CRAFT as it now is in the ground, or if they do not wholly extirpate this sort of Men, then I must foretell, that they will find themselves deceived in their Ex<g ref="char:EOLhyphen"/>pectations, and that the least <hi>Fibra</hi> of this Plant will overrun again the whole Vineyard of the Lord.</p>
+            <p>Thus we see in this transitory World it has not been possi<g ref="char:EOLhyphen"/>ble, even in the best of these later times, for our Holy Religi<g ref="char:EOLhyphen"/>on to move a steddy and even Course, but that her Waters have been troubled with furious and tempestuous Blasts of have been troubled with furious and tempestuous Blasts of Adversity.</p>
+            <p>But let us notwithstanding, every one in his station, resolve to hold fast to this Profession, which is most likely to procure us an eternal Peace; let us in the future Course of our lives shew our selves True Christians, that thereby we may procure the Powers of Heaven to overshadow and protect us; let us, I say, hold fast to that Religion which our Learned KING <hi>JAMES</hi> the First made publick profession of in his Ad<g ref="char:EOLhyphen"/>dress to all Christian Princes; which that ever blessed Saint in Heaven, KING <hi>CHARLES</hi> the First said he had fully tryed, and after much search concluded it to be the best in the World, and therefore charged his Son to persevere in it, as coming nearest to God's Word for Doctrine, and to the primi<g ref="char:EOLhyphen"/>tive Examples for Government; It teaches us how to grow in Vertue and Goodness; it instructs us in acts of Charity, Pati<g ref="char:EOLhyphen"/>ence, Longsuffering, Loving, and Bearing with the Infirmities of one another; let us therefore be at unity with our selves; once more let us all conform, I say, to the establish'd Government of our Church; let us for the future resolve to avoid all vain Dis<g ref="char:EOLhyphen"/>putations
+<pb n="6" facs="tcp:98751:5"/>and Scriblings; and let us persevere in the same, to the end that time may come which Reverend Mr. <hi>Hooker</hi> speaks of, when three words uttered with Charity and Meekness shall receive a far more blessed reward than three thousand Volumes written with disdainfull sharpness of Wit.</p>
+            <p>I should now come to speak of the Civil Power or that Le<g ref="char:EOLhyphen"/>gal Administration of Justice peculiar to this Kingdom; which is <hi>Jus suum cuique tribuere.</hi>
+            </p>
+            <p>But there having been many Discourses of that nature for<g ref="char:EOLhyphen"/>merly in this place by Gentlemen whose Learning and Abilities I have infinitely more reason to value than my own, I shall for this time spare you and my self that trouble,</p>
+            <closer>
+               <salute>Gentlemen,</salute>
+               <signed>
+                  <hi>You that are the Enquest for this County,</hi> &amp;c.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
